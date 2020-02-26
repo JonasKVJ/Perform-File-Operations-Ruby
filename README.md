@@ -15,7 +15,8 @@ All of the files can be slightly modified to run based on a provided absolute pa
 ## How to run (very easy if using OSX):
 1) (Recommended, OSX only, High Sierra or later) Install Homebrew
 2) (Recommended, OSX only) Install rbenv, Ruby version manager
-3) Install the latest Ruby, ideally with rbenv (not good to use inbuilt version if using OSX)
+3) Install the desired version of Ruby, ideally with rbenv (not good to use inbuilt Ruby version if using OSX)
+   - Ruby 2.5.3 should work if installed correctly
 4) Open Terminal or the Windows/Linux equivalent, type `Ruby fileOperations.rb` and follow the instructions
 
 
