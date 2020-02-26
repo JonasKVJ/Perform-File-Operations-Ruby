@@ -17,7 +17,7 @@ How to run:
 2) Install rbenv, Ruby version manager
 3) Install the latest Ruby by using rbenv (not good to use the inbuilt version on OSX)
 4) Open Terminal, type 
-'''Ruby fileOperations.rb''' 
+`Ruby fileOperations.rb`
 and follow the instructions
 
 
