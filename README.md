@@ -13,7 +13,7 @@ All of the files can be slightly modified to run based on a provided absolute pa
 - renameFiles: Renames a set of files selected with regex
 
 ## How to run (much easier on OSX):
-1) (Optional, OSX only) Install Homebrew
+1) (Optional, OSX only, High Sierra or later) Install Homebrew
 2) (Optional, OSX only) Install rbenv, Ruby version manager
 3) Install the latest Ruby, ideally with rbenv (not good to use inbuilt version if using OSX)
 4) Open Terminal or the Windows/Linux equivalent, type `Ruby fileOperations.rb` and follow the instructions
