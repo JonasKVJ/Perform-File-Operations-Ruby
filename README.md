@@ -1,4 +1,4 @@
-# Perform-File-Operations-Ruby
+# Perform-File-Operations-Ruby (Independent project)
 Selects a set of files with regex, and deletes, moves or renames the set. When moving files, specify a destination folder to move the files to. The user is not required to know any programming languages or regex to use fileOperations.rb - it is very user friendly. The emphasis of this program is on the scalability of it and the potential for it to be further developed to become part of some automated pipeline (but mostly just coding practice). 
 
 ## For advanced users:
@@ -13,8 +13,8 @@ All of the files can be slightly modified to run based on a provided absolute pa
 - renameFiles: Renames a set of files selected with regex
 
 ## How to run (much easier on OSX):
-1) (optional, OSX only) Install Homebrew
-2) (optional, OSX only) Install rbenv, Ruby version manager
+1) (Optional, OSX only) Install Homebrew
+2) (Optional, OSX only) Install rbenv, Ruby version manager
 3) Install the latest Ruby, ideally with rbenv (not good to use inbuilt version if using OSX)
 4) Open Terminal or the Windows/Linux equivalent, type `Ruby fileOperations.rb` and follow the instructions
 
