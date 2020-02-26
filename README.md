@@ -12,10 +12,10 @@ All of the files can be slightly modified to run based on a provided absolute pa
 - moveFiles.rb: Moves a set of files selected with regex, from a specified source folder to a specified destination folder.
 - renameFiles: Renames a set of files selected with regex
 
-## How to run:
+## How to run (much easier on OSX):
 1) (optional, OSX only) Install Homebrew
 2) (optional, OSX only) Install rbenv, Ruby version manager
-3) Install the latest Ruby, ideally with rbenv (not good to use the inbuilt version if using OSX)
-4) Open Terminal, type `Ruby fileOperations.rb` and follow the instructions
+3) Install the latest Ruby, ideally with rbenv (not good to use inbuilt version if using OSX)
+4) Open Terminal or the Windows equivalent, type `Ruby fileOperations.rb` and follow the instructions
 
 
