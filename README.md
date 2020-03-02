@@ -1,5 +1,5 @@
 # Perform-File-Operations-Ruby (Independent Project)
-Selects a set of files with regex, and deletes, moves or renames the set. When moving files, specify a destination folder to move the files to. The user is not required to know any programming languages or regex to use fileOperations.rb - it is very user friendly. The emphasis of this program is on the scalability of it and the potential for it to be further developed to become part of some automated pipeline (but mostly just coding practice). 
+Selects a set of files with filenames that match a specified regex pattern, and deletes, moves or renames the set. When moving files, specify a destination folder to move the files to. The user is not required to know any programming languages or regex to use fileOperations.rb - it is very user friendly. The emphasis of this program is on the scalability of it and the potential for it to be further developed to become part of some automated pipeline (but mostly just coding practice). 
 
 ## For advanced users:
 All of the files can be slightly modified to run based on a provided absolute path in the program itself, as opposed to one provided as an input string. This is of course much more easily repeatable for testing purposes, especially involving the creation of several thousand text files with createFiles.rb.  
