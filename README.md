@@ -22,6 +22,6 @@ All of the .rb files can be slightly modified to run based on a provided absolut
       the desired path where .txt files can be created. Warning: Creating more than thousand text files could freeze up the       system. 
    - Edit where it says `createFiles(src, 10)` and replace 10 with the desired number of text files to be created. 
    - Lastly, run the program with `Ruby createFiles.rb`
-5) Open Terminal or the Windows/Linux equivalent, and type `Ruby fileOperations.rb`; then simply follow the instructions
+5) Open Terminal or the Windows/Linux equivalent, type `cd <replace this with the path of fileOperations.rb>` and type `Ruby fileOperations.rb`; then simply follow the instructions.
 
 
