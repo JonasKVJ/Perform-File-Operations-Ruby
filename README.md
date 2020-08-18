@@ -6,10 +6,7 @@ All of the .rb files can be slightly modified to run based on a provided absolut
 
 ## Overview of files:
 - createFiles.rb: Create a set of text files to run file operations on. Good for understanding how fileOperations.rb works.
-- deleteFiles.rb: Delete a set of files selected according to whether their filenames matches a specified regex pattern
 - fileOperations.rb: Complete standalone program, which deletes, moves or renames an entire set of files based on a regex pattern specified by the user. Also includes a short regex tutorial, so as to allow anyone not knowing regex to use it.
-- moveFiles.rb: Moves a set of files selected with regex, from a specified source folder to a specified destination folder.
-- renameFiles: Renames a set of files selected with regex
 
 ## How to run (very easy if using OSX):
 1) (Recommended, OSX only, High Sierra or later) Install Homebrew
