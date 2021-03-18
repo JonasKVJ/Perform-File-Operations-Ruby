@@ -4,7 +4,6 @@
 # Optionally, .txt files can be created with createFiles.rb to test how this program works
 
 #!/usr/bin/env ruby
-#env is generally more supported on OSX than the more common alternative
 
 require 'fileutils'
 require 'pathname'
