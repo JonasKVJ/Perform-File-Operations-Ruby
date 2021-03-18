@@ -455,7 +455,7 @@ FO = FileOperation.new()
 # for easily repeatable tests
 src = "/Default/folder/with/files/to/rename/move/delete"
 
-# input designates which file operation to perform
+# Input designates which file operation to perform
 # # 1) Delete files
 # # 2) Move files
 # # 3) Rename files
